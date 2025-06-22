@@ -1,5 +1,19 @@
 # Changelog
 
+## [14.1.0](https://github.com/LuanRT/YouTube.js/compare/v14.0.0...v14.1.0) (2025-06-22)
+
+
+### Features
+
+* **CommentsView:** parse `voice_reply_transcript` ([#981](https://github.com/LuanRT/YouTube.js/issues/981)) ([d6f13e2](https://github.com/LuanRT/YouTube.js/commit/d6f13e20ac6806e7a97dc8c3bd6bb947be6fd76c))
+* **DashManifest:** Add DRM infos to MPD ([7ae4ccf](https://github.com/LuanRT/YouTube.js/commit/7ae4ccf70ad78bac7d6421d94df529f8f79a13f3))
+* **parser-classes:** Add `CompositeVideoPrimaryInfo` parser class ([#984](https://github.com/LuanRT/YouTube.js/issues/984)) ([6386976](https://github.com/LuanRT/YouTube.js/commit/638697696f54482c5270b0d11d1a7a33b5cd902a))
+
+
+### Bug Fixes
+
+* **Session:** Incorrect session client logic ([76504c0](https://github.com/LuanRT/YouTube.js/commit/76504c0d0875228299dddf24bd550ed2a5e4244f))
+
 ## [14.0.0](https://github.com/LuanRT/YouTube.js/compare/v13.4.0...v14.0.0) (2025-06-08)
 
 
