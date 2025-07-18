@@ -135,12 +135,9 @@ export default class Innertube {
           splay: false,
           lactMilliseconds: '-1',
           signatureTimestamp: session.player?.sts
-        },
-        adPlaybackContext: {
-          pyv: true,
-          adType: 'AD_TYPE_INSTREAM'
         }
       },
+      params: '8AEB',
       client
     };
 
